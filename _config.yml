@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yejin Son"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master Student in Yonsei University"
   location         : "Earth"
   employer         : "Yonsei University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
