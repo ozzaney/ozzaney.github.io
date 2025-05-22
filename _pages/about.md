@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Yejin Son, a Master's student in Artificial Intelligence at the [University of Yonsei](https://yonsei.ac.kr), advised by Dr. [Youngjae Yu](https://yj-yu.github.io/home/). cs.washington.edu.
+Hi! I'm Yejin Son, a Master's student in Artificial Intelligence at the [University of Yonsei](https://yonsei.ac.kr), advised by [Youngjae Yu](https://yj-yu.github.io/home/). 
 
 Research Interests
 ======
