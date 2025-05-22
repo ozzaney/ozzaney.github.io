@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.JPG"
   name             : "Yejin Son"
   pronouns         : "she/her"  
-  bio              : "Master Student in Yonsei University"
-  location         : "Earth"
+  bio              : "Master's Student at the Yonsei University"
+  location         : "South Korea"
   employer         : "Yonsei University"
   uri              : # URL
   email            : "yejinhand@yonsei.ac.kr" 
