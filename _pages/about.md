@@ -16,10 +16,8 @@ My research is centered around natural language processing (NLP), with a particu
 
 ## Publications
 
-Publications are listed in reverse chronological order. 
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
-  <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser" style="width: 110px; margin-right: 20px; border-radius: 5px;">
+  <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser" style="width: 140px; margin-right: 40px; border-radius: 5px;">
   <div>
     <p><strong>Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making</strong><br>
     <em>Yejin Son</em>, Minseo Kim, Sungwoong Kim, Seungju Han, Jian Kim, Dongju Jang, Youngjae Yu, Chan Young Park<br>
