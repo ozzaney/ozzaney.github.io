@@ -21,7 +21,7 @@ My research is centered around natural language processing (NLP), with a particu
   <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
        style="width: 160px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
-    <div style="background-color: #FFC0CB; color: white; font-size: 12px; font-weight: bold; 
+    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
       Preprint
     </div><br>
