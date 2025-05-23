@@ -37,7 +37,7 @@ My research is centered around natural language processing (NLP), with a particu
     <div style="position: absolute; top: 0; left: 0; width: 100%; background-color: magenta; color: white; font-weight: bold; font-size: 12px; padding: 1px 6px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
       Preprint
     </div>
-    <img src="/images/tom_teaser.png" alt="ToM teaser" style="width: 140px; margin-right: 60px; border-radius: 5px; margin-top: 18px; margin-bottom: 8px;">
+    <img src="/images/visual_tom.png" alt="ToM teaser" style="width: 140px; margin-right: 60px; border-radius: 5px; margin-top: 18px; margin-bottom: 8px;">
   </div>
   <div style="font-size: 15px; padding-top: 6px;">
     <p><strong>Mind the Motions: Benchmarking Theory‑of‑Mind in Everyday Body Language</strong><br>
@@ -51,7 +51,7 @@ My research is centered around natural language processing (NLP), with a particu
     <div style="position: absolute; top: 0; left: 0; width: 100%; background-color: magenta; color: white; font-weight: bold; font-size: 12px; padding: 1px 6px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
       EMNLP 2023
     </div>
-    <img src="/images/book_norms_teaser.png" alt="Book Norms teaser" style="width: 140px; margin-right: 60px; border-radius: 5px; margin-top: 18px; margin-bottom: 8px;">
+    <img src="/images/normlens.jpg" alt="Book Norms teaser" style="width: 140px; margin-right: 60px; border-radius: 5px; margin-top: 18px; margin-bottom: 8px;">
   </div>
   <div style="font-size: 15px; padding-top: 6px;">
     <p><strong>Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms</strong><br>
