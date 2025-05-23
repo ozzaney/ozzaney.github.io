@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="max-width: 1000px; margin: auto; padding: 0 24px;">
-
 Hi! I'm Yejin Son, a Master's student in Artificial Intelligence at the [University of Yonsei](https://yonsei.ac.kr), [MIRLAB](https://mirlab.yonsei.ac.kr/) advised by [Youngjae Yu](https://yj-yu.github.io/home/). 
 
 ## Research Interests
