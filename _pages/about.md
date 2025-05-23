@@ -36,7 +36,7 @@ My research is centered around natural language processing (NLP), with a particu
     <div style="position: absolute; top: 0; left: 0; background-color: magenta; color: white; font-size: 12px; font-weight: bold; padding: 2px 6px; height: 20px; line-height: 16px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
       Preprint
     </div>
-    <img src="/images/tom_teaser.png" alt="ToM teaser"
+    <img src="/images/visual_tom.png" alt="ToM teaser"
          style="width: 160px; object-fit: cover; border-radius: 5px; margin-top: 20px;">
   </div>
   <div style="font-size: 16px;">
@@ -51,7 +51,7 @@ My research is centered around natural language processing (NLP), with a particu
     <div style="position: absolute; top: 0; left: 0; background-color: magenta; color: white; font-size: 12px; font-weight: bold; padding: 2px 6px; height: 20px; line-height: 16px; border-top-left-radius: 5px; border-top-right-radius: 5px;">
       EMNLP 2023
     </div>
-    <img src="/images/book_norms_teaser.png" alt="Book Norms teaser"
+    <img src="/images/normlens.jpg" alt="Book Norms teaser"
          style="width: 160px; object-fit: cover; border-radius: 5px; margin-top: 20px;">
   </div>
   <div style="font-size: 16px;">
@@ -63,9 +63,4 @@ My research is centered around natural language processing (NLP), with a particu
 </div>
 
 
-
-
-
 <p>Website last updated: May 22, 2025</p>
-
-</div>
