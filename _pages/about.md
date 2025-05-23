@@ -27,7 +27,7 @@ My research is centered around natural language processing (NLP), with a particu
   </div>
   <div style="font-size: 16px;">
     <span class="papertitle"><strong>Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making</strong></span><br>
-    **Yejin Son**, Minseo Kim, Sungwoong Kim, Seungju Han, Jian Kim, Dongju Jang, Youngjae Yu, Chan Young Park<br>
+    <strong>Yejin Son</strong>, Minseo Kim, Sungwoong Kim, Seungju Han, Jian Kim, Dongju Jang, Youngjae Yu, Chan Young Park<br>
     <strong>Coming Soon</strong>
   </div>
 </div>
@@ -42,7 +42,7 @@ My research is centered around natural language processing (NLP), with a particu
   </div>
   <div style="font-size: 16px;">
     <span class="papertitle"><strong>Mind the Motions: Benchmarking Theory‑of‑Mind in Everyday Body Language</strong></span><br>
-    Seungbeen Lee, Jinhong Jeong, Donghyun Kim, **Yejin Son**, Youngjae Yu<br>
+    Seungbeen Lee, Jinhong Jeong, Donghyun Kim, <strong>Yejin Son</strong>, Youngjae Yu<br>
     <strong>Coming Soon</strong>
   </div>
 </div>
@@ -57,7 +57,7 @@ My research is centered around natural language processing (NLP), with a particu
   </div>
   <div style="font-size: 16px;">
     <span class="papertitle"><strong>Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms</strong></span><br>
-    Seungju Han, Junhyeok Kim, Jack Hessel, Liwei Jiang, Jiwan Chung, **Yejin Son**, Yejin Choi, Youngjae Yu<br>
+    Seungju Han, Junhyeok Kim, Jack Hessel, Liwei Jiang, Jiwan Chung, <strong>Yejin Son</strong>, Yejin Choi, Youngjae Yu<br>
     <strong>Published in EMNLP 2023</strong><br>
     <a href="https://arxiv.org/abs/2310.10418">[Paper]</a>
   </div>
