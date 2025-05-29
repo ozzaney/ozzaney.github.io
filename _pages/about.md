@@ -13,7 +13,7 @@ I earned a B.S. in Economics and Applied Statistics from [Yonsei University](htt
 
 ## Research Interests
 
-My research is centered around natural language processing (NLP), with a particular focus on **Social-Aware NLP**, including AI safety. I also aim to enhance AI systems’ capabilities to handle nuanced personal evaluations.
+My research is centered around natural language processing (NLP), with a particular focus on **Social-Aware & Human-centered AI**, including AI safety. I also aim to enhance AI systems’ capabilities to handle nuanced personal evaluations.
 
 ## Publications
 
