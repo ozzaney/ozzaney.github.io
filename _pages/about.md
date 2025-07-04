@@ -13,9 +13,22 @@ I earned a B.S. in Economics and Applied Statistics from [Yonsei University](htt
 
 ## Research Interests
 
-My research is centered around natural language processing (NLP), with a particular focus on **Social-Aware & Human-centered AI**, including AI safety. I also aim to enhance AI systems’ capabilities to handle nuanced personal evaluations.
+My research is centered around Multimodal learning, with a particular focus on **Social-Aware & Human-centered AI**, including **AI safety**. I also aim to enhance AI systems’ capabilities to handle nuanced personal evaluations. 
 
 ## Publications
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+  <img src="" alt=""
+       style="width: 160px; object-fit: cover; border-radius: 5px;">
+  <div style="font-size: 16px;">
+    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
+                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+      Preprint
+    </div><br>
+    <span class="papertitle"><strong>G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts</strong></span><br>
+    Yejin Choi, Yejin Yeo, <strong>Yejin Son*</strong>, Seungju Han, Youngjae Yu<br>
+    <strong>Coming Soon</strong>
+  </div>
+</div>
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
@@ -63,4 +76,4 @@ My research is centered around natural language processing (NLP), with a particu
 
 
 
-<p>Website last updated: May 22, 2025</p>
+<p>Website last updated: July 4, 2025</p>
