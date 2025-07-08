@@ -26,7 +26,7 @@ My research is centered around Multimodal learning, with a particular focus on *
     </div><br>
     <span class="papertitle"><strong>G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts</strong></span><br>
     Yejin Choi, Yejin Yeo, <strong>Yejin Son</strong>, Seungju Han, Youngjae Yu<br>
-    <strong>COLM 2025</strong>
+    <strong>Published in COLM 2025</strong>
   </div>
 </div>
 
@@ -76,4 +76,4 @@ My research is centered around Multimodal learning, with a particular focus on *
 
 
 
-<p>Website last updated: July 4, 2025</p>
+<p>Website last updated: July 8, 2025</p>
