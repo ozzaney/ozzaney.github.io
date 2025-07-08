@@ -22,7 +22,7 @@ My research is centered around Multimodal learning, with a particular focus on *
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      Preprint
+      COLM 2025
     </div><br>
     <span class="papertitle"><strong>G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts</strong></span><br>
     Yejin Choi, Yejin Yeo, <strong>Yejin Son</strong>, Seungju Han, Youngjae Yu<br>
