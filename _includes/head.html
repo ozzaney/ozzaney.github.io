@@ -12,6 +12,26 @@
   .papertitle {
     font-family: 'Playfair Display', serif;
   }
+
+  /* === Custom wide layout override === */
+  .page, #main, .page__container, .container {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* (Optional) Make paper title sections cleaner */
+  .papertitle + br + strong {
+    display: block;
+    margin-top: 4px;
+  }
+  /* ================================ */
 </style>
 
 <meta charset="utf-8">
