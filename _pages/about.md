@@ -46,7 +46,7 @@ My research is centered around Multimodal learning, with a particular focus on *
 </div>
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/visual_tom.png" alt="ToM teaser"
+  <img src="/images/visual_tom_ver2.png" alt="ToM teaser"
        style="width: 160px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
