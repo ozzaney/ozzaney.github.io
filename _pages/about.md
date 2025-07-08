@@ -17,7 +17,7 @@ My research is centered around Multimodal learning, with a particular focus on *
 
 ## Publications
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/comingsoon.png" alt="coming soon"
+  <img src="/images/glyphdecode.png" alt="coming soon"
        style="width: 160px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
@@ -26,7 +26,7 @@ My research is centered around Multimodal learning, with a particular focus on *
     </div><br>
     <span class="papertitle"><strong>G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts</strong></span><br>
     Yejin Choi, Yejin Yeo, <strong>Yejin Son</strong>, Seungju Han, Youngjae Yu<br>
-    <strong>Coming Soon</strong>
+    <strong>COLM 2025</strong>
   </div>
 </div>
 
