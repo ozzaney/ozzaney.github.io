@@ -18,7 +18,7 @@ My research is centered around Multimodal learning, with a particular focus on *
 ## Publications
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/glyphdecode.png" alt="coming soon"
-       style="width: 160px; object-fit: cover; border-radius: 5px;">
+       style="width: 220px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
@@ -32,7 +32,7 @@ My research is centered around Multimodal learning, with a particular focus on *
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
-       style="width: 160px; object-fit: cover; border-radius: 5px;">
+       style="width: 220px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
@@ -47,7 +47,7 @@ My research is centered around Multimodal learning, with a particular focus on *
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/tom_main_figure_1_3-1.png" alt="ToM teaser"
-       style="width: 160px; object-fit: cover; border-radius: 5px;">
+       style="width: 220px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
@@ -61,7 +61,7 @@ My research is centered around Multimodal learning, with a particular focus on *
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/normlens.jpg" alt="Book Norms teaser"
-       style="width: 160px; object-fit: cover; border-radius: 5px;">
+       style="width: 220px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
