@@ -27,7 +27,7 @@ My research is centered around Multimodal learning, with a particular focus on *
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
     <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
-    <strong></strong>
+    <strong>Coming Soon</strong>
   </div>
 </div>
 
