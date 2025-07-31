@@ -23,7 +23,7 @@ My research is centered around Multimodal learning, with a particular focus on *
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      COLM 2025
+      Preprint
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
     <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
