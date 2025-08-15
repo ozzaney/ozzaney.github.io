@@ -18,20 +18,6 @@ My research is centered around Multimodal learning, with a particular focus on *
 ## Publications
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/uncommon.png" alt="coming soon"
-       style="width: 300px; object-fit: cover; border-radius: 5px;">
-  <div style="font-size: 16px;">
-    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
-                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      Preprint
-    </div><br>
-    <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
-    <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
-    <strong>Coming Soon</strong>
-  </div>
-</div>
-
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/glyphdecode.png" alt="coming soon"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
