@@ -18,6 +18,35 @@ My research is centered around Multimodal learning, with a particular focus on *
 ## Publications
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+  <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
+       style="width: 300px; object-fit: cover; border-radius: 5px;">
+  <div style="font-size: 16px;">
+    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
+                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+      EMNLP 2025 Main
+    </div><br>
+    <span class="papertitle" style="font-size: 16px;"><strong>Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making</strong></span><br>
+    <strong>Yejin Son*</strong>, Minseo Kim*, Sungwoong Kim, Seungju Han, Jian Kim, Dongju Jang, Youngjae Yu, Chan Young Park<br>
+    <strong>Published in EMNLP 2025</strong><br>
+    <a href="https://arxiv.org/abs/2505.19933">[Paper]</a>
+  </div>
+</div>
+
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+  <img src="/images/uncommon_teaser.png" alt="coming soon"
+       style="width: 300px; object-fit: cover; border-radius: 5px;">
+  <div style="font-size: 16px;">
+    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
+                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+      EMNLP 2025 findings
+    </div><br>
+    <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
+    <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
+    <strong>Published in EMNLP 2025</strong>
+  </div>
+</div>
+
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/glyphdecode.png" alt="coming soon"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
@@ -31,20 +60,6 @@ My research is centered around Multimodal learning, with a particular focus on *
   </div>
 </div>
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
-       style="width: 300px; object-fit: cover; border-radius: 5px;">
-  <div style="font-size: 16px;">
-    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
-                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      Preprint
-    </div><br>
-    <span class="papertitle" style="font-size: 16px;"><strong>Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making</strong></span><br>
-    <strong>Yejin Son*</strong>, Minseo Kim*, Sungwoong Kim, Seungju Han, Jian Kim, Dongju Jang, Youngjae Yu, Chan Young Park<br>
-    <strong>Arxiv</strong><br>
-    <a href="https://arxiv.org/abs/2505.19933">[Paper]</a>
-  </div>
-</div>
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/tom_main_figure_1_3-1.png" alt="ToM teaser"
