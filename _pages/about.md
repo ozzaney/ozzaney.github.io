@@ -92,4 +92,4 @@ My research is centered around Multimodal learning, with a particular focus on *
 
 
 
-<p>Website last updated: July 8, 2025</p>
+<p>Website last updated: August 21st, 2025</p>
