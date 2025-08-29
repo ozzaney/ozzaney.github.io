@@ -1,9 +1,8 @@
-/* === 모바일(≤768px)에서만 Publications 이미지/레이아웃 수정 === */
+
 @media (max-width: 768px) {
-  /* 섹션 스코프: 페이지에 맞춰 하나만 남겨 쓰세요 */
-  /* 후보 1: 페이지에 #publications 아이디가 있을 때 */
+
   #publications {
-    /* 텍스트·이미지 2열을 1열로 쌓기 */
+
     .row { flex-wrap: wrap !important; }
     [class*="col-"] { flex: 0 0 100% !important; max-width: 100% !important; }
 
@@ -17,10 +16,9 @@
       float: none !important;
     }
 
-    /* 인라인 width/height 강제된 경우 무시 */
     img[width], img[height] { width: 100% !important; height: auto !important; }
 
-    /* 카드 간격 */
+
     figure { margin: 0 0 1rem !important; }
   }
 
