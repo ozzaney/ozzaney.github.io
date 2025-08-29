@@ -1,36 +1,45 @@
+/* ===========================
+   Custom Overrides for al-folio
+   =========================== */
 
+/* 공통: 이미지가 부모 폭을 넘지 않도록 */
+.page .content img,
+.post .content img,
+.figure img,
+figure img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* 데스크톱에서는 원래 레이아웃 그대로 유지 */
+
+/* ===========================
+   모바일 전용 수정
+   =========================== */
 @media (max-width: 768px) {
-
-  #publications {
-
-    .row { flex-wrap: wrap !important; }
-    [class*="col-"] { flex: 0 0 100% !important; max-width: 100% !important; }
-
-    /* figure / img가 화면 폭을 넘지 않게 */
-    figure, img { max-width: 100% !important; }
-    figure img, img {
-      width: 100% !important;
-      height: auto !important;
-      display: block;
-      object-fit: contain;
-      float: none !important;
-    }
-
-    img[width], img[height] { width: 100% !important; height: auto !important; }
-
-
-    figure { margin: 0 0 1rem !important; }
+  /* 1. Publications 레이아웃 깨짐 방지 */
+  #publications .row {
+    flex-wrap: wrap !important;
+  }
+  #publications [class*="col-"] {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
   }
 
-  /* 후보 2: 섹션에 .publications 클래스만 있는 테마일 때 (필요 시 사용) */
-  /*
-  section.publications, .publications {
-    .row { flex-wrap: wrap !important; }
-    [class*="col-"] { flex: 0 0 100% !important; max-width: 100% !important; }
-    figure, img { max-width: 100% !important; }
-    figure img, img { width: 100% !important; height: auto !important; display:block; object-fit: contain; float:none !important; }
-    img[width], img[height] { width:100% !important; height:auto !important; }
-    figure { margin: 0 0 1rem !important; }
+  /* 2. Publications 섹션에서 이미지/피규어 감추기 */
+  #publications figure,
+  #publications img,
+  #publications .teaser,
+  #publications .project-thumbnail,
+  #publications .project-image {
+    display: none !important;
   }
-  */
+
+  /* 3. 혹시 인라인으로 width/height 지정된 경우 무시 */
+  #publications img[width],
+  #publications img[height] {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
