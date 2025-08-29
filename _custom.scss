@@ -1,0 +1,25 @@
+/* ===========================
+   Custom Styles for Yejin Son
+   =========================== */
+
+/* 기본 이미지 안전장치 */
+.page__content img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 모바일에서 flex 구조(논문 섹션 등) 세로로 쌓기 */
+@media (max-width: 768px) {
+  .page__content > div[style*="display: flex"] {
+    flex-direction: column !important;
+    align-items: flex-start !important; /* 텍스트는 왼쪽 정렬 */
+  }
+
+  /* 논문 그림 이미지 크기 보정 */
+  .page__content > div[style*="display: flex"] img {
+    width: 100% !important;   /* 모바일에서는 가로폭 꽉 차게 */
+    max-width: 100% !important;
+    margin-bottom: 12px;      /* 그림과 텍스트 사이 간격 */
+    border-radius: 5px;       /* 둥근 모서리 유지 */
+  }
+}
