@@ -90,6 +90,3 @@ My research is centered around Multimodal learning, with a particular focus on *
   </div>
 </div>
 
-
-
-<p>Website last updated: August 21st, 2025</p>
