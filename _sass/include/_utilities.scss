@@ -156,6 +156,18 @@ body:hover .visually-hidden button {
   }
 }
 
+/* On small screens, prevent text squeeze by removing floats and expanding images */
+@include breakpoint(max-width $small) {
+  .align-left,
+  .align-right {
+    float: none !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+}
+
 /* image align center */
 
 .align-center {
