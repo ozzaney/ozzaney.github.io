@@ -71,3 +71,10 @@
     max-width: 100%;
   }
 }
+
+/* --- About page: hide publication images on mobile only --- */
+@media (max-width: 768px) {
+  .about-pubs img {
+    display: none !important;
+  }
+}

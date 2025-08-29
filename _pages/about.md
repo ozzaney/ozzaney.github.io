@@ -17,6 +17,8 @@ My research is centered around Multimodal learning, with a particular focus on *
 
 ## Publications
 
+<div class="about-pubs">
+
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
@@ -88,5 +90,7 @@ My research is centered around Multimodal learning, with a particular focus on *
     <strong>Published in EMNLP 2023</strong><br>
     <a href="https://arxiv.org/abs/2310.10418">[Paper]</a>
   </div>
+  </div>
 </div>
 
+</div>
