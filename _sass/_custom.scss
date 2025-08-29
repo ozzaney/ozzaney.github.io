@@ -1,0 +1,15 @@
+.page .content img,
+.post .content img,
+.figure img,
+figure img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* 마크다운/HTML에 width/height 속성이 있어도 모바일에선 무시 */
+@media (max-width: 576px) {
+  img[width], img[height] { width: 100% !important; height: auto !important; }
+  figure[style*="width"]  { width: 100% !important; }
+}
