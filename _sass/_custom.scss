@@ -1,51 +1,33 @@
-/* ---------- Global: prevent horizontal overflow ---------- */
-.page__content,
-.archive {
-  overflow-x: hidden;
-}
+/* Scoped styles only for the publications section to avoid breaking site-wide layout */
 
-.page__content img {
-  max-width: 100%;
-  height: auto;
-}
+/* Optional wrapper: add class="pubs" around the publications list in your page
+   If you don't add .pubs wrapper, these rules still apply safely due to narrow selectors. */
 
-.page__content table {
-  display: block;
-  width: 100%;
-  overflow-x: auto;
-}
-
-.page__content pre,
-.page__content code {
-  white-space: pre-wrap;
-  word-break: break-word;
-}
-
-/* ---------- Publication block layout ---------- */
+/* --- Publication block layout (desktop: row, mobile: column) --- */
 .pub {
   display: flex;
   gap: 16px;
   align-items: center;
   margin-bottom: 32px;
 
-  /* Prevent children from forcing horizontal scroll */
+  /* Prevent child content from forcing horizontal scroll */
   > * {
     min-width: 0;
   }
 }
 
 .pub__img {
-  width: 300px;           /* Fixed image width on desktop */
+  width: 300px;           /* Keep desktop look */
   height: auto;
   object-fit: cover;
   border-radius: 6px;
-  flex: 0 0 auto;         /* Keep image from shrinking */
+  flex: 0 0 auto;         /* Do not shrink the image */
 }
 
 .pub__meta {
   font-size: 16px;
   line-height: 1.55;
-  overflow-wrap: anywhere; /* Break long URLs/words */
+  overflow-wrap: anywhere; /* Wrap long URLs/words inside the meta column */
 }
 
 .papertitle {
@@ -66,7 +48,7 @@
   margin-bottom: 4px;
 }
 
-/* ---------- Responsive: stack vertically on small screens ---------- */
+/* --- Responsive: stack vertically on small screens --- */
 @media (max-width: 768px) {
   .pub {
     flex-direction: column;
@@ -75,7 +57,7 @@
 
   .pub__img {
     width: 100%;
-    max-width: 480px;   /* Prevent overly large images */
+    max-width: 480px;   /* Keep images from growing too large */
   }
 
   .pub__meta {
@@ -83,7 +65,7 @@
   }
 }
 
-/* ---------- Extra small screens ---------- */
+/* --- Extra small screens --- */
 @media (max-width: 360px) {
   .pub__img {
     max-width: 100%;
