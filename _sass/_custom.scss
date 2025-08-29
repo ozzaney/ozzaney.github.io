@@ -1,8 +1,8 @@
-/* ===========================
-   Custom Overrides for al-folio
-   =========================== */
+/* =========================================
+   Custom overrides for about page publications
+   ========================================= */
 
-/* 공통: 이미지 반응형 보정 */
+/* 공통: 이미지가 부모 폭을 넘지 않도록(안전장치) */
 .page .content img,
 .post .content img,
 .figure img,
@@ -13,21 +13,34 @@ figure img {
 }
 
 /* ===========================
-   모바일 전용 수정
+   모바일(≤768px) 전용 규칙
    =========================== */
 @media (max-width: 768px) {
 
-  /* 1. about 페이지 안에서 논문 figure만 감추기 */
-  body.page-about .pub-figure {
+  /* about 페이지에서, .papertitle(논문 제목)이 들어있는 블록의 '바로 안쪽 이미지'만 숨김
+     => 논문 썸네일만 타겟, 프로필 사진 등은 그대로 유지 */
+  body.page-about div:has(.papertitle) > img {
     display: none !important;
   }
 
-  /* 2. 레이아웃이 이미지 자리 때문에 틀어지지 않도록 */
-  body.page-about .row {
-    flex-wrap: wrap !important;
+  /* 위 구조가 display:flex로 가로 정렬되어 있어도, 이미지가 사라진 뒤
+     텍스트가 자연스럽게 한 줄 폭을 쓰도록 정리 */
+  body.page-about div:has(.papertitle) {
+    display: block !important;           /* 원래 inline-style로 flex여도 세로 흐름으로 변경 */
+    margin-bottom: 24px !important;      /* 카드 간격 유지 */
   }
-  body.page-about [class*="col-"] {
-    flex: 0 0 100% !important;
+
+  /* 혹시 figure.liquid 등을 쓴 항목도 함께 숨기고 싶다면(안전망) */
+  body.page-about div:has(.papertitle) figure,
+  body.page-about div:has(.papertitle) .teaser,
+  body.page-about div:has(.papertitle) .project-thumbnail,
+  body.page-about div:has(.papertitle) .project-image {
+    display: none !important;
+  }
+
+  /* 인라인 스타일로 고정폭(width:300px 등)이 박혀 있더라도 텍스트 영역은 전체폭 사용 */
+  body.page-about div:has(.papertitle) > div {
+    width: 100% !important;
     max-width: 100% !important;
   }
 }
