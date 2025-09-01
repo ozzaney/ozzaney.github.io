@@ -93,4 +93,3 @@ My research is centered around Multimodal learning, with a particular focus on *
   </div>
 </div>
 
-</div>
