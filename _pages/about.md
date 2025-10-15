@@ -20,7 +20,7 @@ I pursue research in Multimodal learning, with a particular focus on **Social-Aw
 <div class="about-pubs">
   
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/uncommon_teaser.png" alt="coming soon"
+  <img src="/images/humor_teaser.png" alt="coming soon"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
