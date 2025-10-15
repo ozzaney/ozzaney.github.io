@@ -13,12 +13,26 @@ I earned a B.S. in Economics and Applied Statistics from [Yonsei University](htt
 
 ## Research Interests
 
-My research is centered around Multimodal learning, with a particular focus on **Social-Aware & Human-centered AI**, including **AI safety**. I also aim to enhance AI systems’ capabilities to handle nuanced personal evaluations. 
+I pursue research in Multimodal learning, with a particular focus on **Social-Aware & Human-centered AI**, including **responsible AI** and **pluristic alignment**. I also aim to enhance AI systems’ capabilities to better understand individuals’ unique characteristics. Ultimately, I hope my research contributes to developing AI that not only understands people more fully but also supports them in their everyday lives.
 
 ## Publications
 
 <div class="about-pubs">
-
+  
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+  <img src="/images/uncommon_teaser.png" alt="coming soon"
+       style="width: 300px; object-fit: cover; border-radius: 5px;">
+  <div style="font-size: 16px;">
+    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
+                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+      Under Review 
+    </div><br>
+    <span class="papertitle" style="font-size: 16px;"><strong>Investigating Counterfactual Unfairness in LLMs towards Identities through Humor</strong></span><br>
+    <strong>Yejin Son*</strong>, Shubin Kim*, Junyeong Park, Keummin Ka, Seungbeen Lee, Jaeyoung Lee, Hyeju Jang, Alice Oh, Youngjae Yu<br> 
+    <strong>Coming Soon</strong>
+  </div>
+</div>
+  
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/llm_safety_teaser.png" alt="Subtle Risks teaser"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
