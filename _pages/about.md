@@ -13,7 +13,7 @@ I earned a B.S. in Economics and Applied Statistics from [Yonsei University](htt
 
 ## Research Interests
 
-I pursue research in Multimodal learning, with a particular focus on **Social-Aware & Human-centered AI**, including **responsible AI** and **pluristic alignment**. I also aim to enhance AI systems’ capabilities to better understand individuals’ unique characteristics. Ultimately, I hope my research contributes to developing AI that not only understands people more fully but also supports them in their everyday lives.
+I pursue research in Multimodal learning, with a particular focus on **Social-Aware & Human-centered AI**, including **responsible AI** and **pluralistic alignment**. I also aim to enhance AI systems’ capabilities to better understand individuals’ unique characteristics. Ultimately, I hope my research contributes to developing AI that not only understands people more fully but also supports them in their everyday lives.
 
 ## Publications
 
