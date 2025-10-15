@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yejin Son, a Master student in Artificial Intelligence at the [Yonsei University](https://yonsei.ac.kr), [MIRLAB](https://mirlab.yonsei.ac.kr/) advised by [Youngjae Yu](https://yj-yu.github.io/home/). 
-I received my B.S. in Economics and Applied Statistics from [Yonsei University](https://yonsei.ac.kr).
+Hi! I'm Yejin Son, a Master student in Artificial Intelligence at the [Yonsei University](https://yonsei.ac.kr) advised by [Youngjae Yu](https://yj-yu.github.io/home/). 
+I received my B.S. in Economics and Applied Statistics from Yonsei.
 
 ## Research Interests
 
