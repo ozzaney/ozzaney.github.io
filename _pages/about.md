@@ -58,7 +58,7 @@ I pursue research in Multimodal learning, with a particular focus on **Social-Aw
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
     <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
-    <strong>Published in EMNLP 2025</strong>
+    <strong>Published in EMNLP 2025</strong><br> 
     <a href="https://aclanthology.org/2025.findings-emnlp.954/">[Paper]</a>
   </div>
 </div>
@@ -73,7 +73,8 @@ I pursue research in Multimodal learning, with a particular focus on **Social-Aw
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts</strong></span><br>
     Yejin Choi, Yejin Yeo, <strong>Yejin Son</strong>, Seungju Han, Youngjae Yu<br>
-    <strong>Published in COLM 2025</strong>
+    <strong>Published in COLM 2025</strong><br>
+    <a href="https://openreview.net/forum?id=OGwE7LwtcR#discussion">[Paper]</a>
   </div>
 </div>
 
