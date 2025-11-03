@@ -44,7 +44,7 @@ I pursue research in Multimodal learning, with a particular focus on **Social-Aw
     <span class="papertitle" style="font-size: 16px;"><strong>Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making</strong></span><br>
     <strong>Yejin Son*</strong>, Minseo Kim*, Sungwoong Kim, Seungju Han, Jian Kim, Dongju Jang, Youngjae Yu, Chan Young Park<br>
     <strong>Published in EMNLP 2025</strong><br>
-    <a href="https://arxiv.org/abs/2505.19933">[Paper]</a>
+    <a href="https://aclanthology.org/2025.emnlp-main.1305/">[Paper]</a>
   </div>
 </div>
 
@@ -59,6 +59,7 @@ I pursue research in Multimodal learning, with a particular focus on **Social-Aw
     <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
     <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
     <strong>Published in EMNLP 2025</strong>
+    <a href="https://aclanthology.org/2025.findings-emnlp.954/">[Paper]</a>
   </div>
 </div>
 
