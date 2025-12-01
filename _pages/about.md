@@ -89,7 +89,7 @@ I pursue research in Multimodal learning, with a particular focus on **Social-Aw
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Mind the Motions: Benchmarking Theory‑of‑Mind in Everyday Body Language</strong></span><br>
     Seungbeen Lee, Jinhong Jeong, Donghyun Kim, <strong>Yejin Son</strong>, Youngjae Yu<br>
-    <strong>Arxiv</strong>
+    <strong>Arxiv</strong><br>
     <a href="https://arxiv.org/abs/2511.15887">[Paper]</a>
   </div>
 </div>
