@@ -50,21 +50,6 @@ I pursue research in Multimodal learning, with a particular focus on **Social-Aw
 </div>
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
-  <img src="/images/uncommon_teaser.png" alt="coming soon"
-       style="width: 300px; object-fit: cover; border-radius: 5px;">
-  <div style="font-size: 16px;">
-    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
-                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      EMNLP 2025 findings
-    </div><br>
-    <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
-    <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
-    <strong>Published in EMNLP 2025</strong><br> 
-    <a href="https://aclanthology.org/2025.findings-emnlp.954/">[Paper]</a>
-  </div>
-</div>
-
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/glyphdecode.png" alt="coming soon"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
