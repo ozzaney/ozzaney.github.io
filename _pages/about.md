@@ -13,7 +13,9 @@ I received my B.S. in Economics and Applied Statistics from Yonsei.
 
 ## Research Interests
 
-I am a researcher dedicated to building AI that truly 'sees' and supports people. My work in Multimodal reasoning and Pluralistic Alignment focuses on moving beyond one-size-fits-all models toward Socially-Aware AI that respects individual characteristics. I believe the future of AI lies in enhancing human agency, and I strive to develop responsible systems that act as meaningful partners in our daily lives, helping us thrive both as individuals and as a community.
+I am a researcher dedicated to building AI that truly 'sees' and supports people without diminishing their autonomy. My work in Multimodal Reasoning and Pluralistic Alignment focuses on moving beyond one-size-fits-all models toward Socially-Aware AI that respects individual uniqueness.
+
+I believe the future of AI lies in augmenting human agency, ensuring that technology does not overshadow or displace human thought but serves as a catalyst for mutual growth. My mission is to develop responsible systems that act as meaningful partners in our daily lives, empowering individuals to flourish and helping bridge the gaps in human-to-human relationships. Ultimately, I strive to contribute to AI that not only understands us more fully but also inspires us to connect more deeply with one another.
 
 ## Publications
 
