@@ -13,7 +13,7 @@ I received my B.S. in Economics and Applied Statistics from Yonsei.
 
 ## Research Interests
 
-I pursue research in Multimodal learning, with a particular focus on **Social-Aware & Human-centered AI**, including **Responsible AI** and **Pluralistic Alignment**. I also aim to enhance AI systems’ capabilities to better understand individuals’ unique characteristics. Ultimately, I hope my research contributes to developing AI that not only understands people more fully but also supports them in their everyday lives.
+I am a researcher dedicated to building AI that truly 'sees' and supports people. My work in Multimodal reasoning and Pluralistic Alignment focuses on moving beyond one-size-fits-all models toward Socially-Aware AI that respects individual characteristics. I believe the future of AI lies in enhancing human agency, and I strive to develop responsible systems that act as meaningful partners in our daily lives, helping us thrive both as individuals and as a community.
 
 ## Publications
 
