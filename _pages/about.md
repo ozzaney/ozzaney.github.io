@@ -81,7 +81,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
   </div>
 </div>
 
-<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+<!-- <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/uncommon_teaser.png" alt="coming soon"
        style="width: 300px; object-fit: cover; border-radius: 5px;">
   <div style="font-size: 16px;">
@@ -94,7 +94,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
     <strong>Published in EMNLP 2025</strong><br> 
     <a href="https://www.arxiv.org/abs/2602.01561">[Paper]</a>
   </div>
-</div>
+</div> -->
 
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/normlens.jpg" alt="Book Norms teaser"
