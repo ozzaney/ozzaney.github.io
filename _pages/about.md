@@ -92,7 +92,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
     <span class="papertitle" style="font-size: 16px;"><strong>Multimodal UNcommonsense: From Odd to Ordinary and Ordinary to Odd</strong></span><br>
     <strong>Yejin Son*</strong>, Saejin Kim*, Dongjun Min, Youngjae Yu<br>
     <strong>Published in EMNLP 2025</strong><br> 
-    <a href="https://www.arxiv.org/abs/2602.01561">[Paper]</a>
+    <a href="https://aclanthology.org/2025.findings-emnlp.954/">[Paper]</a>
   </div>
 </div>
 
@@ -107,7 +107,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
     <span class="papertitle" style="font-size: 16px;"><strong>Reading Books is Great, But Not if You Are Driving! Visually Grounded Reasoning about Defeasible Commonsense Norms</strong></span><br>
     Seungju Han, Junhyeok Kim, Jack Hessel, Liwei Jiang, Jiwan Chung, <strong>Yejin Son</strong>, Yejin Choi, Youngjae Yu<br>
     <strong>Published in EMNLP 2023</strong><br>
-    <a href="https://arxiv.org/abs/2310.10418">[Paper]</a>
+    <a href="https://aclanthology.org/2023.emnlp-main.57/">[Paper]</a>
   </div>
   </div>
 </div>
