@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Yejin Son, an incoming PhD student in Computer Science at the [University of British Columbia](https://www.ubc.ca/), where I will be advised by [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/).
+Hi! I'm Yejin Son, an incoming PhD student in Computer Science at the [University of British Columbia](https://www.ubc.ca/), where I will be advised by [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/), starting in Fall 2026.
 I am currently a Master's student in Artificial Intelligence at [Yonsei University](https://yonsei.ac.kr) advised by Prof. [Youngjae Yu](https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=en). I am also a visiting researcher at the Jinesis AI Lab at the [University of Toronto](https://www.utoronto.ca/), working with Prof. [Zhijing Jin](https://zhijing-jin.com/home/).
 I received my B.S. in Economics and Applied Statistics from Yonsei University.
 
