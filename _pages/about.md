@@ -31,7 +31,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Investigating Counterfactual Unfairness in LLMs towards Identities through Humor</strong></span><br>
     <strong>Yejin Son*</strong>, Shubin Kim*, Junyeong Park, Keummin Ka, Seungbeen Lee, Jaeyoung Lee, Hyeju Jang, Alice Oh, Youngjae Yu<br> 
-    <strong>Arxiv</strong>
+    <strong>Arxiv</strong><br>
     <a href="https://arxiv.org/abs/2604.18729">[Paper]</a>
   </div>
 </div>
