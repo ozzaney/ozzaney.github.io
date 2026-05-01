@@ -42,7 +42,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
   <div style="font-size: 16px;">
     <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
                 padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
-      ACL 2026 Main
+      Arxiv
     </div><br>
     <span class="papertitle" style="font-size: 16px;"><strong>Mind the Motions: Benchmarking Theory‑of‑Mind in Everyday Body Language</strong></span><br>
     Seungbeen Lee, Jinhong Jeong, Donghyun Kim, <strong>Yejin Son</strong>, Youngjae Yu<br>
