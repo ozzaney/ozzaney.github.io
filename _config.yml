@@ -22,9 +22,12 @@ author:
   avatar           : "me_toronto.jpg"
   name             : "Yejin Son"
   pronouns         :  
-  bio              : "Master Student at the Yonsei University"
+  bio              : "Master Student at Yonsei University"
   location         : "Toronto, Canada"
-  employer         : "Yonsei University"
+  employer         :   
+  - "Yonsei University"
+  - "University of Toronto"
+  - "Vector Institute"
   uri              : # URL
   email            : "yejinhand@yonsei.ac.kr" 
 
