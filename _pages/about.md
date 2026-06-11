@@ -19,10 +19,29 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
 
 ## News
 
-| Jun 2026   | I will be attending [ICML 2026](https://icml.cc) with two workshop papers, presenting a poster on our work on latent cultural boundaries in LLMs at the [Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/), and our K-pop concert audience agent paper accepted as an oral at the [Culture x AI Workshop](https://www.doingaidifferently.org/culturexaiworkshop). See you in Seoul! |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Apr 2026   | I am serving as a Program Chair of the [ICML 2026 Workshop on Trustworthy AI4GOOD](https://trustworthy-ai-for-good.github.io/).                                                                                                                                                                                                                                                                              |
-| Apr 2026   | I will be attending [ACL 2026](https://2026.aclweb.org) to present our paper on counterfactual unfairness in LLMs through humor. See you in San Diego!                                                                                                                                                                                                                                                       |
+<div style="border: 1px solid #ddd; border-radius: 6px; overflow: hidden; margin: 1rem 0;">
+
+  <div style="display: flex; gap: 1.5rem; padding: 14px 20px; border-bottom: 1px solid #ddd;">
+    <div style="min-width: 80px; font-weight: bold; color: #333; font-size: 15px;">Jun 2026</div>
+    <div style="font-size: 15px; line-height: 1.6;">I will be attending <a href="https://icml.cc">ICML 2026</a> with two workshop papers — presenting a poster on our work on latent cultural boundaries in LLMs at the <a href="https://pluralistic-alignment.github.io/">Pluralistic Alignment Workshop</a>, and our K-pop concert audience agent paper accepted as an oral at the <a href="https://www.doingaidifferently.org/culturexaiworkshop">Culture x AI Workshop</a>. See you in Seoul!</div>
+  </div>
+
+  <div style="display: flex; gap: 1.5rem; padding: 14px 20px; border-bottom: 1px solid #ddd;">
+    <div style="min-width: 80px; font-weight: bold; color: #333; font-size: 15px;">Apr 2026</div>
+    <div style="font-size: 15px; line-height: 1.6;">I will be attending <a href="https://2026.aclweb.org">ACL 2026</a> to present our paper on counterfactual unfairness in LLMs through humor. See you in San Diego!</div>
+  </div>
+
+  <div style="display: flex; gap: 1.5rem; padding: 14px 20px; border-bottom: 1px solid #ddd;">
+    <div style="min-width: 80px; font-weight: bold; color: #333; font-size: 15px;">Apr 2026</div>
+    <div style="font-size: 15px; line-height: 1.6;">I am serving as a Program Chair of the <a href="https://trustworthy-ai-for-good.github.io/">ICML 2026 Workshop on Trustworthy AI4GOOD</a>.</div>
+  </div>
+
+  <div style="display: flex; gap: 1.5rem; padding: 14px 20px;">
+    <div style="min-width: 80px; font-weight: bold; color: #333; font-size: 15px;">Mar 2026</div>
+    <div style="font-size: 15px; line-height: 1.6;">I am excited to share that I will be joining the <a href="https://www.cs.ubc.ca">University of British Columbia</a> as a PhD student in Computer Science, advised by Prof. <a href="https://www.cs.ubc.ca/~vshwartz/">Vered Shwartz</a>, starting Fall 2026!</div>
+  </div>
+
+</div>
 
 ## Publications
 
