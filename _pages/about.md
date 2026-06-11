@@ -20,6 +20,37 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
 ## Publications
 
 <div class="about-pubs">
+
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+  <img src="/images/wedge.png" alt="coming soon"
+       style="width: 300px; object-fit: cover; border-radius: 5px;">
+  <div style="font-size: 16px;">
+    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
+                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+     Pluralistic Alignment @  ICML 2026 Workshop 
+    </div><br>
+    <span class="papertitle" style="font-size: 16px;"><strong>The Wedge Questions: Latent Cultural Boundaries in LLMs via Persona Projection Divergence
+</strong></span><br>
+    <strong>Yejin Son</strong>, Yongjin Yang, Ryan Faulkner, Matt Ratto, Seungwon Lim, Youngjae Yu, Zhijing Jin<br> 
+    <strong>Coming Soon</strong><br>
+  </div>
+</div>
+
+<div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
+  <img src="/images/kpop.png" alt="coming soon"
+       style="width: 300px; object-fit: cover; border-radius: 5px;">
+  <div style="font-size: 16px;">
+    <div style="background-color: #FFB7C5; color: white; font-size: 12px; font-weight: bold; 
+                padding: 2px 6px; border-radius: 4px; display: inline-block; margin-bottom: 4px;">
+     Culture x AI @ ICML 2026 Workshop 
+    </div><br>
+    <span class="papertitle" style="font-size: 16px;"><strong>Does Persona Make LLMs K-pop Fans? A Pilot Study of LLM-Based Online Concert Audience Agents
+</strong></span><br>
+    Kirak Kim, Hyojin Kim, <strong>Yejin Son</strong>, Sungyoung Kim, Kyung Myun Lee<br> 
+    <strong>Arxiv</strong><br>
+    <a href="https://arxiv.org/abs/2606.07837">[Paper]</a>
+  </div>
+</div>
   
 <div style="display: flex; gap: 16px; align-items: center; margin-bottom: 32px;">
   <img src="/images/humor_teaser.png" alt="coming soon"
