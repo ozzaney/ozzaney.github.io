@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Yejin Son, an incoming PhD student in Computer Science at the [University of British Columbia](https://www.ubc.ca/), where I will be advised by [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/), starting in Fall 2026.
-I am currently a Master's student in Artificial Intelligence at [Yonsei University](https://yonsei.ac.kr) advised by Prof. [Youngjae Yu](https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=en). I am also a visiting researcher at the Jinesis AI Lab at the [University of Toronto](https://www.utoronto.ca/), working with Prof. [Zhijing Jin](https://zhijing-jin.com/home/).
+Hi! I'm Yejin Son, an incoming PhD student in Computer Science at the [University of British Columbia](https://www.ubc.ca/), where I will be advised by [Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/), starting in Fall 2026. I will also be affiliated with the [Vector Institute](https://vectorinstitute.ai/).
+I am currently a Master's student in Artificial Intelligence at [Yonsei University](https://yonsei.ac.kr) advised by Prof. [Youngjae Yu](https://scholar.google.com/citations?user=WDO24ZYAAAAJ&hl=en). I am also a visiting researcher at the Jinesis AI Lab at the [University of Toronto](https://www.utoronto.ca/), an external collaborator at the [Vector Institute](https://vectorinstitute.ai/), working with Prof. [Zhijing Jin](https://zhijing-jin.com/home/). 
 I received my B.A. in Economics and Applied Statistics from Yonsei University.
 
 ## Research Interests
@@ -38,7 +38,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
 
   <div style="display: flex; gap: 1.5rem; padding: 14px 20px;">
     <div style="min-width: 80px; font-weight: bold; color: #333; font-size: 15px;">Mar 2026</div>
-    <div style="font-size: 15px; line-height: 1.6;">I am excited to share that I will be joining the <a href="https://www.cs.ubc.ca">University of British Columbia</a> as a PhD student in Computer Science, advised by Prof. <a href="https://www.cs.ubc.ca/~vshwartz/">Vered Shwartz</a>, starting Fall 2026!</div>
+    <div style="font-size: 15px; line-height: 1.6;">I am excited to share that I will be joining the <a href="https://www.cs.ubc.ca">University of British Columbia</a> as a PhD student in Computer Science, advised by Prof. <a href="https://www.cs.ubc.ca/~vshwartz/">Vered Shwartz</a>, starting Fall 2026, supported by the Four Year Fellowship (4YF)!</div>
   </div>
 
 </div>
