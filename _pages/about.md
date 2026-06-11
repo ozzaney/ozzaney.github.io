@@ -22,7 +22,7 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
 <div style="border: 1px solid #ddd; border-radius: 6px; overflow: hidden; margin: 1rem 0;">
 
   <div style="display: flex; gap: 1.5rem; padding: 14px 20px; border-bottom: 1px solid #ddd;">
-    <div style="min-width: 80px; font-weight: bold; color: #333; font-size: 15px;">Jun 2026</div>
+    <div style="min-width: 80px; font-weight: bold; color: #333; font-size: 15px;">May 2026</div>
     <div style="font-size: 15px; line-height: 1.6;">I will be attending <a href="https://icml.cc">ICML 2026 Workshop</a> with two workshop papers, presenting a poster on our work on latent cultural boundaries in LLMs at the <a href="https://pluralistic-alignment.github.io/">Pluralistic Alignment Workshop</a>, and our K-pop concert audience agent paper accepted as an oral at the <a href="https://www.doingaidifferently.org/culturexaiworkshop">Culture x AI Workshop</a>. See you in Seoul!</div>
   </div>
 
