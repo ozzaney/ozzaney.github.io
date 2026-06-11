@@ -19,8 +19,8 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
 
 ## News
 
-| Jun 2026 | 📝 I will be attending [ICML 2026](https://icml.cc) with two workshop papers, presenting a poster on pluralistic alignment at the [Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/), and presenting our K-pop concert audience agent paper at the [Culture x AI Workshop] (https://www.doingaidifferently.org/culturexaiworkshop). See you in Seoul! |
-| April 2026 |  I am serving as a Program Chair of the [ICML 2026 Workshop on Trustworthy AI4GOOD](https://trustworthy-ai-for-good.github.io/). |
+| Jun 2026 | 🇰🇷 I will be attending [ICML 2026](https://icml.cc) with two workshop papers, presenting a poster on pluralistic alignment at the [Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/), and presenting our K-pop concert audience agent paper at the [Culture x AI Workshop] (https://www.doingaidifferently.org/culturexaiworkshop). See you in Seoul! |
+| April 2026 | 🪑 I am serving as a Program Chair of the [ICML 2026 Workshop on Trustworthy AI4GOOD](https://trustworthy-ai-for-good.github.io/). |
 | April 2026 | ☀️ I will be attending [ACL 2026](https://2026.aclweb.org) to present our paper on counterfactual unfairness in LLMs through humor. See you in Sandiego! |
 
 
