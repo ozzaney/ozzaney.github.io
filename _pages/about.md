@@ -19,59 +19,9 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
 
 ## News
 
-<style>
-  .news-wrap { padding: 1rem 0; }
-  .news-heading { font-size: 18px; font-weight: 500; color: var(--color-text-primary); margin: 0 0 1rem; }
-  .news-item { display: flex; gap: 12px; align-items: flex-start; padding: 12px 0; border-bottom: 0.5px solid var(--color-border-tertiary); }
-  .news-item:last-child { border-bottom: none; }
-  .news-dot { width: 8px; height: 8px; border-radius: 50%; background: #D4537E; flex-shrink: 0; margin-top: 7px; }
-  .news-text { font-size: 15px; color: var(--color-text-primary); line-height: 1.6; }
-  .badge { display: inline-block; font-size: 11px; font-weight: 500; padding: 2px 8px; border-radius: 20px; margin-right: 6px; vertical-align: middle; text-decoration: none; }
-  .badge-icml { background: #FBEAF0; color: #993556; }
-  .badge-acl  { background: #EEEDFE; color: #3C3489; }
-  .badge-chair { background: #E1F5EE; color: #0F6E56; }
-  .badge-culture { background: #FAEEDA; color: #854F0B; }
-  .news-link { color: #185FA5; text-decoration: none; border-bottom: 0.5px solid currentColor; }
-  .news-link:hover { opacity: 0.75; }
-</style>
-
-<div class="news-wrap">
-
-  <div class="news-item">
-    <div class="news-dot"></div>
-    <div class="news-text">
-      <a href="https://pluralistic-alignment.github.io/" class="badge badge-icml" target="_blank">ICML 2026 Workshop ↗</a>
-      I will be attending the ICML Workshop to present work on Pluralistic Alignment.
-    </div>
-  </div>
-
-  <div class="news-item">
-    <div class="news-dot"></div>
-    <div class="news-text">
-      <span class="badge badge-acl">ACL 2026</span>
-      I will be attending ACL 2026!
-    </div>
-  </div>
-
-  <div class="news-item">
-    <div class="news-dot"></div>
-    <div class="news-text">
-      <a href="https://trustworthy-ai-for-good.github.io/" class="badge badge-chair" target="_blank">Program Chair ↗</a>
-      I am serving as a Program Chair of the
-      <a href="https://trustworthy-ai-for-good.github.io/" class="news-link" target="_blank">ICML 2026 Workshop on Trustworthy AI4GOOD ↗</a>.
-    </div>
-  </div>
-
-  <div class="news-item">
-    <div class="news-dot"></div>
-    <div class="news-text">
-      <a href="https://www.doingaidifferently.org/culturexaiworkshop" class="badge badge-culture" target="_blank">Culture x AI @ ICML 2026 ↗</a>
-      Our paper on LLM-based K-pop concert audience agents will be presented at the
-      <a href="https://www.doingaidifferently.org/culturexaiworkshop" class="news-link" target="_blank">Culture x AI Workshop ↗</a>.
-    </div>
-  </div>
-
-</div>
+| Jun 2026 | 📝 I will be attending [ICML 2026](https://icml.cc) with two workshop papers, presenting a poster on pluralistic alignment at the [Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/), and presenting our K-pop concert audience agent paper at the [Culture x AI Workshop] (https://www.doingaidifferently.org/culturexaiworkshop). See you in Seoul! |
+| April 2026 |  I am serving as a Program Chair of the [ICML 2026 Workshop on Trustworthy AI4GOOD](https://trustworthy-ai-for-good.github.io/). |
+| April 2026 | ☀️ I will be attending [ACL 2026](https://2026.aclweb.org) to present our paper on counterfactual unfairness in LLMs through humor. See you in Sandiego! |
 
 
 ## Publications
