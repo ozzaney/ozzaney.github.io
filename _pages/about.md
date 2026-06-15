@@ -58,7 +58,8 @@ I believe the future of AI lies in augmenting human agency, ensuring that techno
     <span class="papertitle" style="font-size: 16px;"><strong>The Wedge Questions: Latent Cultural Boundaries in LLMs via Persona Projection Divergence
 </strong></span><br>
     <strong>Yejin Son</strong>, Yongjin Yang, Ryan Faulkner, Matt Ratto, Seungwon Lim, Youngjae Yu, Zhijing Jin<br> 
-    <strong>Coming Soon</strong><br>
+    <strong>ICML Pluralistic Alignment Workshop 2026</strong><br>
+    <a href="https://openreview.net/forum?id=zHQuHMzOuD">[Paper]</a>
   </div>
 </div>
 
