@@ -1,0 +1,472 @@
+:root {
+  --ink: #171717;
+  --muted: #4f4f4f;
+  --accent: #0b3d91;
+  --accent-soft: #f0f0f0;
+  --nav-accent: #0b3d91;
+  --nav-accent-soft: #f0f0f0;
+  --link: #0b3d91;
+  --paper: #ffffff;
+  --canvas: #080808;
+}
+
+@font-face {
+  font-family: "MaruBuri";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MaruBuri";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MaruBuri";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Bold.woff2") format("woff2");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--canvas);
+  font-family: "MaruBuri", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+a {
+  color: var(--link);
+  text-decoration-color: #7a96c9;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover,
+a:focus-visible {
+  color: #072c6b;
+}
+
+.site-shell {
+  --dock-shift: 0px;
+  width: min(100% - 8px, 2100px);
+  min-height: 100vh;
+  margin: 28px auto 0;
+  padding: 36px clamp(40px, 6vw, 100px) 32px;
+  background: var(--paper);
+  box-shadow: 0 0 56px rgba(0, 0, 0, 0.4);
+}
+
+.hero {
+  display: grid;
+  place-items: center;
+  padding: 8px 0 20px;
+  min-height: auto;
+}
+
+.hero-identity {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: min(62vw, 480px, 38svh);
+}
+
+.photo-wrap {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  margin-bottom: 18px;
+}
+
+.profile-photo {
+  display: block;
+  width: min(62vw, 480px, 38svh);
+  aspect-ratio: 1;
+  border: 1px solid #d0d0d0;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  object-fit: cover;
+  object-position: 31% 42%;
+  overflow: hidden;
+  will-change: width, height, top, left;
+}
+
+body.photo-docked .profile-photo {
+  position: fixed;
+  z-index: 20;
+  margin: 0;
+}
+
+.profile-intro-slot {
+  width: 100%;
+}
+
+.profile-intro {
+  text-align: var(--intro-align, center);
+  will-change: width, top, left;
+}
+
+body.photo-docked .profile-intro {
+  position: fixed;
+  z-index: 20;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  margin-bottom: 12px;
+  font-size: var(--name-size, clamp(2.6rem, 4.8vw, 3.6rem));
+  line-height: 1.05;
+}
+
+.name-pronunciation {
+  display: flex;
+  align-items: center;
+  justify-content: var(--intro-align, center);
+  flex-wrap: wrap;
+  gap: 0.2em 0.35em;
+  margin-bottom: 12px;
+  color: var(--muted);
+  font-size: var(--pronounce-size, clamp(1.2rem, 2vw, 1.55rem));
+  line-height: 1.35;
+}
+
+.name-pronunciation [lang="ko"] {
+  letter-spacing: 0;
+}
+
+.pronounce-btn {
+  display: inline-grid;
+  place-items: center;
+  width: 1.15em;
+  height: 1.15em;
+  color: var(--link);
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.pronounce-btn:hover,
+.pronounce-btn:focus-visible {
+  color: #072c6b;
+}
+
+.pronounce-btn svg {
+  width: 100%;
+  height: 100%;
+  fill: currentColor;
+}
+
+.profile-intro > p:not(.name-pronunciation) {
+  margin-bottom: 14px;
+  color: var(--muted);
+  font-size: var(--affil-size, clamp(1.15rem, 1.8vw, 1.45rem));
+  line-height: 1.5;
+}
+
+body.photo-docked .profile-intro h1 {
+  margin-bottom: 10px;
+}
+
+body.photo-docked .name-pronunciation {
+  margin-bottom: 8px;
+}
+
+body.photo-docked .profile-intro > p:not(.name-pronunciation) {
+  margin-bottom: 10px;
+}
+
+.profile-links {
+  display: flex;
+  justify-content: var(--intro-align, center);
+  flex-wrap: wrap;
+  gap: 8px var(--icon-gap, 34px);
+  color: var(--link);
+  font-size: var(--icon-size, clamp(1.35rem, 2vw, 1.65rem));
+}
+
+.profile-links a {
+  display: grid;
+  place-items: center;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.profile-links svg {
+  width: 100%;
+  height: 100%;
+  fill: currentColor;
+}
+
+.reading-main {
+  min-width: 0;
+  margin-left: var(--dock-shift);
+  transition: margin-left 180ms ease;
+}
+
+.intro-copy,
+.content-section {
+  padding: 32px 0;
+}
+
+.intro-copy p {
+  margin-bottom: 14px;
+  font-size: 1.72rem;
+}
+
+.intro-copy p:last-child,
+.content-section p:last-child {
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-bottom: 18px;
+  font-size: 3.05rem;
+  line-height: 1.2;
+}
+
+.content-section > p {
+  font-size: 1.8rem;
+}
+
+#about > p {
+  font-size: 1.4rem;
+}
+
+.news-item {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  align-items: baseline;
+  gap: 18px;
+  padding: 15px 0;
+}
+
+.news-item time {
+  color: var(--ink);
+  font-size: 1.55rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.news-item p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.58rem;
+  white-space: normal;
+}
+
+.publication > p:not(.publication-meta) {
+  color: var(--muted);
+  font-size: 1.42rem;
+}
+
+.publication {
+  position: relative;
+  padding: 0 0 20px;
+}
+
+.publication h3 {
+  margin-bottom: 2px;
+  font-size: 1.62rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.publication > p:not(.publication-meta) {
+  margin-bottom: 2px;
+}
+
+.publication-meta {
+  margin-bottom: 0;
+  color: var(--muted);
+  font-size: 1.42rem;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 900px) {
+  .reading-main {
+    margin-left: 0 !important;
+  }
+
+  body.photo-docked .profile-photo,
+  body.photo-docked .profile-intro {
+    position: static;
+    width: auto !important;
+    height: auto !important;
+    left: auto !important;
+    top: auto !important;
+  }
+
+  body.photo-docked .profile-photo {
+    width: min(62vw, 480px, 38svh) !important;
+  }
+
+  .photo-wrap,
+  .profile-intro-slot {
+    height: auto !important;
+  }
+
+  .profile-intro {
+    text-align: center;
+  }
+
+  .profile-links {
+    justify-content: center;
+  }
+
+  h1 {
+    font-size: clamp(2.4rem, 10vw, 3.4rem);
+  }
+
+  .name-pronunciation {
+    font-size: clamp(1.05rem, 4.2vw, 1.35rem);
+    justify-content: center;
+  }
+
+  .profile-intro > p:not(.name-pronunciation) {
+    font-size: clamp(1.15rem, 4.4vw, 1.45rem);
+  }
+
+  .profile-links {
+    gap: 10px 22px;
+    font-size: clamp(1.45rem, 5vw, 1.8rem);
+  }
+
+  .profile-links a {
+    width: 44px;
+    height: 44px;
+  }
+
+  .profile-links svg {
+    width: 1.15em;
+    height: 1.15em;
+  }
+
+  h2 {
+    font-size: clamp(2rem, 8vw, 2.6rem);
+  }
+
+  .intro-copy p {
+    font-size: 1.2rem;
+  }
+
+  #about > p,
+  .content-section > p {
+    font-size: 1.15rem;
+  }
+
+  .news-item {
+    gap: 12px 14px;
+    padding: 12px 0;
+  }
+
+  .news-item time {
+    font-size: 1.05rem;
+  }
+
+  .news-item p {
+    font-size: 1.1rem;
+  }
+
+  .publication h3 {
+    font-size: 1.2rem;
+  }
+
+  .publication > p:not(.publication-meta),
+  .publication-meta {
+    font-size: 1.05rem;
+  }
+}
+
+@media (max-width: 720px) {
+  .site-shell {
+    width: min(100% - 20px, 760px);
+    margin-top: 16px;
+    padding: 24px 18px 28px;
+  }
+
+  .hero {
+    padding: 4px 0 16px;
+  }
+
+  .hero-identity,
+  .profile-photo {
+    width: min(72vw, 340px);
+  }
+
+  .photo-wrap {
+    margin-bottom: 22px;
+  }
+
+  .intro-copy,
+  .content-section {
+    padding: 22px 0;
+  }
+
+  .news-item {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+}
+
+@media (max-width: 420px) {
+  .name-pronunciation {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .profile-links {
+    gap: 8px 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .profile-photo,
+  .reading-main,
+  .profile-intro {
+    transition: none;
+  }
+
+  body.photo-docked .profile-photo,
+  body.photo-docked .profile-intro {
+    position: static;
+  }
+}

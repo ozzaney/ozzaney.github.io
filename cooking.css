@@ -1,0 +1,113 @@
+.cooking-page .cooking-shell {
+  padding-top: 28px;
+  padding-bottom: 48px;
+}
+
+.cooking-header {
+  margin-bottom: 28px;
+}
+
+.cooking-back {
+  display: inline-block;
+  color: var(--muted);
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.cooking-back:hover,
+.cooking-back:focus-visible {
+  color: var(--link);
+}
+
+.collage {
+  columns: 3;
+  column-gap: 22px;
+}
+
+.tile {
+  break-inside: avoid;
+  margin: 0 0 22px;
+  overflow: hidden;
+  border-radius: 14px;
+  background: transparent;
+  opacity: 0;
+  transform: translateY(14px);
+  animation: collage-in 700ms cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation-delay: calc(var(--d, 0) * 45ms);
+}
+
+.tile img {
+  display: block;
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+  transition: transform 520ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.tile:hover img,
+.tile:focus-within img {
+  transform: scale(1.015);
+}
+
+@keyframes collage-in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.cooking-footer {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  font-size: 1rem;
+}
+
+.cooking-footer a {
+  color: var(--link);
+}
+
+@media (max-width: 900px) {
+  .collage {
+    columns: 2;
+    column-gap: 16px;
+  }
+
+  .tile {
+    margin-bottom: 16px;
+  }
+}
+
+@media (max-width: 520px) {
+  .cooking-page .cooking-shell {
+    width: min(100% - 16px, 760px);
+    margin-top: 8px;
+    padding: 18px 14px 28px;
+  }
+
+  .cooking-header {
+    margin-bottom: 18px;
+  }
+
+  .collage {
+    columns: 1;
+    column-gap: 0;
+  }
+
+  .tile {
+    margin-bottom: 14px;
+    border-radius: 12px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tile {
+    opacity: 1;
+    transform: none;
+    animation: none;
+  }
+
+  .tile img {
+    transition: none;
+  }
+}
