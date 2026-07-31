@@ -4,14 +4,22 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Yejin Son — researcher in socially aware AI.">
-    <title>Yejin Son</title>
+    <title>Homepage · Yejin Son</title>
     <link rel="icon" href="assets/favicon.png?v=logo6" type="image/png">
     <link rel="icon" href="assets/favicon-64.png?v=logo6" type="image/png" sizes="64x64">
     <link rel="icon" href="assets/favicon-32.png?v=logo6" type="image/png" sizes="32x32">
     <link rel="apple-touch-icon" href="assets/apple-touch-icon.png?v=logo6">
     <link rel="stylesheet" href="styles.css?v=body-smaller">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HQTH5E1KSJ"></script>
+    <script>
+      window.GA_MEASUREMENT_ID = "G-HQTH5E1KSJ";
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+    </script>
+    <script src="analytics.js?v=2" defer></script>
   </head>
-  <body>
+  <body data-page="home">
     <main class="site-shell">
       <section class="hero" id="home">
         <div class="hero-identity" id="hero-identity">
@@ -70,7 +78,7 @@
       </section>
 
       <div class="reading-main">
-        <section class="intro-copy" aria-labelledby="intro-title">
+        <section id="intro" class="intro-copy" aria-labelledby="intro-title">
           <h2 id="intro-title" class="sr-only">Introduction</h2>
           <p>
             Hi! I'm Yejin Son, an incoming PhD student in Computer Science at the
