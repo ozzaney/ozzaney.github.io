@@ -102,7 +102,7 @@ a:focus-visible {
   border-radius: 12px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   object-fit: cover;
-  object-position: 31% 42%;
+  object-position: 50% 25%;
   overflow: hidden;
   will-change: width, height, top, left;
 }
