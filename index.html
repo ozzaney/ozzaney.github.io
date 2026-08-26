@@ -29,8 +29,6 @@
               id="profile-photo"
               src="assets/profile-main.jpg?v=hires"
               alt="Yejin Son presenting her EMNLP 2025 poster"
-              data-default-src="assets/profile-main.jpg?v=hires"
-              data-default-alt="Yejin Son presenting her EMNLP 2025 poster"
             >
           </div>
           <div class="profile-intro-slot" id="profile-intro-slot">
@@ -173,16 +171,7 @@
         <section id="about" class="content-section" aria-labelledby="about-title">
           <h2 id="about-title">About Me</h2>
           <p>
-            Outside of research, I enjoy
-            running and
-            <a
-              href="assets/profile-hiking.jpg"
-              class="photo-swap-link"
-              data-photo="assets/profile-hiking.jpg?v=hires"
-              data-alt="Yejin Son hiking in the mountains"
-              data-position="48% 68%"
-            >hiking</a>.
-            I also love
+            I enjoy running and
             <a href="cooking.html">cooking</a>
             healthy meals.
           </p>
@@ -315,28 +304,6 @@
         event.preventDefault();
         pronounceAudio.currentTime = 0;
         pronounceAudio.play();
-      });
-
-      const hikingPreload = new Image();
-      hikingPreload.src = "assets/profile-hiking.jpg?v=hires";
-
-      document.querySelectorAll(".photo-swap-link").forEach((link) => {
-        link.addEventListener("click", (event) => {
-          event.preventDefault();
-          const nextSrc = link.dataset.photo;
-          const isSame = photo.getAttribute("src") === nextSrc;
-          if (isSame) {
-            photo.src = photo.dataset.defaultSrc;
-            photo.alt = photo.dataset.defaultAlt;
-            photo.style.objectPosition = "";
-            photo.classList.remove("is-swapped");
-          } else {
-            photo.src = nextSrc;
-            photo.alt = link.dataset.alt || "";
-            photo.style.objectPosition = link.dataset.position || "";
-            photo.classList.add("is-swapped");
-          }
-        });
       });
 
       updatePhotoDock();
