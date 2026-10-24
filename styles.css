@@ -329,6 +329,33 @@ h2 {
   font-size: 1.42rem;
 }
 
+.resume-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75em;
+  padding: 0.65em 1em;
+  border: 1px solid #b8c4da;
+  border-radius: 999px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: border-color 160ms ease, background-color 160ms ease, color 160ms ease;
+}
+
+.resume-link span {
+  color: var(--muted);
+  font-size: 0.82em;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+.resume-link:hover,
+.resume-link:focus-visible {
+  border-color: var(--accent);
+  background: #f6f8fc;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -431,6 +458,10 @@ h2 {
 
   .publication > p:not(.publication-meta),
   .publication-meta {
+    font-size: 1.05rem;
+  }
+
+  .resume-link {
     font-size: 1.05rem;
   }
 }
