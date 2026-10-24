@@ -242,6 +242,25 @@ body.photo-docked .profile-intro > p:not(.name-pronunciation) {
   font-size: 1.72rem;
 }
 
+.intro-copy .vision-statement {
+  margin: 22px 0 20px;
+  color: #082f73;
+  font-size: clamp(1.35rem, 2vw, 1.9rem);
+  font-weight: 600;
+  line-height: 1.45;
+  letter-spacing: -0.005em;
+}
+
+.vision-statement span {
+  color: inherit;
+}
+
+@media (min-width: 901px) {
+  .intro-copy .vision-statement {
+    text-align: center;
+  }
+}
+
 .intro-copy p:last-child,
 .content-section p:last-child {
   margin-bottom: 0;
