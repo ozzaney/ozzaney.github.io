@@ -213,17 +213,58 @@ body.photo-docked .profile-intro > p:not(.name-pronunciation) {
   font-size: var(--icon-size, clamp(1.35rem, 2vw, 1.65rem));
 }
 
-.profile-links a {
+.profile-links a,
+.profile-links button {
   display: grid;
   place-items: center;
   width: 1.2em;
   height: 1.2em;
 }
 
+.profile-links button {
+  padding: 0;
+  border: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  cursor: pointer;
+}
+
+.profile-links button:hover,
+.profile-links button:focus-visible {
+  color: #072c6b;
+}
+
 .profile-links svg {
   width: 100%;
   height: 100%;
   fill: currentColor;
+}
+
+.copy-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  z-index: 100;
+  padding: 8px 14px;
+  border-radius: 999px;
+  color: #fff;
+  background: #171717;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-50%, 8px);
+  transition: opacity 160ms ease, transform 160ms ease, visibility 0s linear 160ms;
+  pointer-events: none;
+}
+
+.copy-toast.is-visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translate(-50%, 0);
+  transition-delay: 0s;
 }
 
 .reading-main {
@@ -389,7 +430,8 @@ h2 {
     font-size: clamp(1.45rem, 5vw, 1.8rem);
   }
 
-  .profile-links a {
+  .profile-links a,
+  .profile-links button {
     width: 44px;
     height: 44px;
   }
@@ -460,7 +502,8 @@ h2 {
     gap: 8px;
   }
 
-  .profile-links a {
+  .profile-links a,
+  .profile-links button {
     width: 38px;
     height: 38px;
   }
@@ -486,7 +529,8 @@ h2 {
     gap: 5px;
   }
 
-  .profile-links a {
+  .profile-links a,
+  .profile-links button {
     width: 34px;
     height: 34px;
   }
@@ -502,5 +546,9 @@ h2 {
   body.photo-docked .profile-photo,
   body.photo-docked .profile-intro {
     position: static;
+  }
+
+  .copy-toast {
+    transition: none;
   }
 }
